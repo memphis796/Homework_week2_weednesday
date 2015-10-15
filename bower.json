@@ -1,0 +1,22 @@
+{
+  "name": "homework",
+  "version": "0.0.0",
+  "authors": [
+    "Memphis796 <memphis796@Hotmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "neat": "~1.7.2"
+  }
+}
